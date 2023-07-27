@@ -198,8 +198,9 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
 i used main to keep the main photo section anchored
 i used article to contain all the links as one group
 i used sections to create child groups within the article group
 by doing so i cleaned up all but one div which seemed to augment the visual no matter what i chose
-i also was able to find and debug a dead link which was the search engine optimization link
+i also was able to find and debug a dead link which was the search engine optimization
